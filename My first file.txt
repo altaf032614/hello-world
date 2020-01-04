@@ -1,2 +1,5 @@
-I am a male.
-My hair is black.
+My hair color is black
+My eye color is black
+My age is 49
+My child name is Altaf
+My dad name is Abdulla
